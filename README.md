@@ -1,2 +1,3 @@
-﻿# 413_Group_Proj
- training_and_model.ipynb refers to the training and evaluation of the final model
+﻿# Deepfake Video Detection
+
+ A formal report on our findings can be found [here]([url](https://github.com/harshp14/DeepfakeDetection/blob/main/FinalReport.pdf))
